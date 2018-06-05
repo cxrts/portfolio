@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.ml-50 {
+    margin-left: 50px;
+}
+
+.mt-200 {
+    margin-top: 40px;
+}
+/*
+.block{
+    background:red;
+    height:100%;
+    width:100%;
+}*/
+.main{
+    
+}
